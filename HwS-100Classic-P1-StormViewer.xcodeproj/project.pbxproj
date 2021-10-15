@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		211314A32719197C0087DD7A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 211314A22719197C0087DD7A /* DetailViewController.swift */; };
 		21B83C1527190C18008C70A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B83C1427190C18008C70A9 /* AppDelegate.swift */; };
 		21B83C1727190C18008C70A9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B83C1627190C18008C70A9 /* SceneDelegate.swift */; };
 		21B83C1927190C18008C70A9 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B83C1827190C18008C70A9 /* TableViewController.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		211314A22719197C0087DD7A /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = SOURCE_ROOT; };
 		21B83C1127190C18008C70A9 /* HwS-100Classic-P1-StormViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HwS-100Classic-P1-StormViewer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21B83C1427190C18008C70A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21B83C1627190C18008C70A9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				21B83C1427190C18008C70A9 /* AppDelegate.swift */,
 				21B83C1627190C18008C70A9 /* SceneDelegate.swift */,
 				21B83C1827190C18008C70A9 /* TableViewController.swift */,
+				211314A22719197C0087DD7A /* DetailViewController.swift */,
 				21B83C1A27190C18008C70A9 /* Main.storyboard */,
 				21B83C1D27190C19008C70A9 /* Assets.xcassets */,
 				21B83C1F27190C19008C70A9 /* LaunchScreen.storyboard */,
@@ -189,6 +192,7 @@
 				21B83C1927190C18008C70A9 /* TableViewController.swift in Sources */,
 				21B83C1527190C18008C70A9 /* AppDelegate.swift in Sources */,
 				21B83C1727190C18008C70A9 /* SceneDelegate.swift in Sources */,
+				211314A32719197C0087DD7A /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
